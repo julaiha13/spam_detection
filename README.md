@@ -15,10 +15,15 @@ HTML/CSS (for frontend)
 Detects spam messages using trained ML model
 Built with Django for a user-friendly web interface
 Trained on SMS spam dataset from Kaggle
-Achieves up to 98% accuracy
+Achieves up to 98% accuracy  
 
 
 ![Screenshot (102)](https://github.com/user-attachments/assets/2d78731f-21ea-4976-b3a1-7cfda834b931)
 
 ![Screenshot (125)](https://github.com/user-attachments/assets/2a6dc1b7-b224-46ef-a9b9-77a9353d4fbd)
+
+
+ 
+ 
+
 
